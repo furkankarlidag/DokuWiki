@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1666566836 source:c:\users\furkan\desktop\project\prolab_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<dirent.h>
+
